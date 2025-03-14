@@ -13,6 +13,16 @@
 9. 语言模型代理设计
 10. AI平台的市场算法 
 
+<h2>授课信息</h2>
+
+上海交通大学研究生院 国际化拔尖创新人才科研训练课程<br>
+
+CIS-NanoMaster 微硕士课程 <br>
+
+**授课教授:**<br>
+**[Haifeng Xu](https://www.haifeng-xu.com/)** <br>
+*Assistant Professor of Computer Science, University of Chicago*
+
 <h2>课题安排</h2>
 
 - 专题时间: 线上 2025.03.07 - 2025.05.25
