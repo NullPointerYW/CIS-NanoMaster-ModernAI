@@ -35,7 +35,7 @@ CIS-NanoMaster 微硕士课程 <br>
 <h2>checklist</h2>
 
 - [x] 2025-03-08 lecture 1  Sat 09:00 - 11:15 am
-- [ ] 2025-03-15 lecture 2  Sat 09:00 - 11:15 am
+- [x] 2025-03-15 lecture 2  Sat 09:00 - 11:15 am
 - [ ] 2025-03-22 lecture 3  Sat 09:00 - 11:15 am 
 - [ ] 2025-03-29 lecture 4  Sat 09:00 - 11:15 am
 - [ ] 2025-04-05 lecture 5  Sat 09:00 - 11:15 am
